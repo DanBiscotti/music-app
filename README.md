@@ -7,7 +7,7 @@ Installation:
 
 After downloading, navigate to project folder
 
-```cd music-app``
+```cd music-app```
 
 Install required node modules
 
