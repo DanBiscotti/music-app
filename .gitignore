@@ -1,0 +1,3 @@
+**/node_modules
+data/artist/*.json
+data/album/*.json
